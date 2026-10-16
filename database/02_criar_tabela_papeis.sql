@@ -1,0 +1,8 @@
+USE secdeskdb;
+GO
+
+CREATE TABLE papeis(
+  id INT IDENTITY(1,1) PRIMARY KEY,
+  nome_papel VARCHAR(150) NOT NULL UNIQUE
+);
+GO
