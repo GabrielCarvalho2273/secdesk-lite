@@ -9,3 +9,4 @@ CREATE TABLE usuarios(
     senha_hash VARCHAR(150) NOT NULL,
     FOREIGN KEY (papel_id) REFERENCES papeis (id)
 );
+GO
