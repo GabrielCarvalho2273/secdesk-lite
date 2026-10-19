@@ -23,4 +23,4 @@ Implementar o ciclo completo de atendimento: abrir um chamado, acompanhar seu st
 
 ## Status
 
-Em desenvolvimento — fase de planejamento e modelagem de dados.
+Em desenvolvimento — Concluido a fase de desenvolvimento do SQL e proximo passo é API
